@@ -11,9 +11,6 @@
 <p>Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.</p>
 </li>
 </ul>
-<h3>Files</h3>
-<p>Download the following files to help you get started:</p>
-<p><a href="https://static.bc-edx.com/data/dl-1-2/m11/lms/starter/Starter_Code_v1.2.2.zip">Module 11 Challenge files</a></p>
 <h3>Instructions</h3>
 <h4>Part 1: Scrape Titles and Preview Text from Mars News</h4>
 <p>Open the Jupyter Notebook in the starter code folder named <code>part_1_mars_news.ipynb</code>. You will work in this code as you follow the steps below to scrape the Mars News website.</p>
